@@ -8,6 +8,7 @@
         <!-- main content -->
         <div class="main-content">
             <h1 class="tan">OUR WORK</h1>
+            <div class="divider bg-red"></div>
         </div>
         <!--end main content -->
     </div>
