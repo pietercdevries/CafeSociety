@@ -10,6 +10,7 @@ description: This is the style for the footer used on all pages.
 .red-top-border
 {
     border-top: solid 10px #99351A;
+    clear: both;
 }
 
 .footer-container

@@ -1,0 +1,53 @@
+/* --------------------------------------------------------
+index.css
+
+version: 1.1
+author: Silicon Bean
+description: This is the style for the index page also known as the home page.
+----------------------------------------------------------*/
+/* containers */
+.inner-video-bottom
+{
+    padding: 25px;
+    position: relative;
+    top: calc(90% - 355px);
+    text-align: center;
+    z-index: 1000;
+}
+
+.one-of-third.video-thirds
+{
+    width: 33.33%;
+    display: block;
+    margin-bottom: 0;
+    float: left;
+}
+
+.one-of-third.video-thirds.padding
+{
+    margin-bottom: 25px;
+}
+
+.main-title
+{
+    height: 225px;
+}
+
+.main-title h1
+{
+    margin-top: 100px;
+}
+
+/* mobile container */
+@media (max-width: 668px)
+{
+    .one-of-third.video-thirds
+    {
+        width: 100%;
+    }
+
+    .one-of-third.video-thirds.padding
+    {
+        margin-bottom: 0;
+    }
+}
