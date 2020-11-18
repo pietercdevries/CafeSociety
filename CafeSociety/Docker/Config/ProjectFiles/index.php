@@ -10,7 +10,7 @@
         <div class="inner-video">
             <!-- inner video text container -->
             <div class="inner-video-text-container">
-                <h1 class="tan">YOU WANT HIGH IMPACT VIDEO THAT WILL GROW YOUR BUSINESS&#63;</h1>
+                <h1 class="tan">WANT HIGH IMPACT VIDEO THAT WILL GROW YOUR BUSINESS&#63;</h1>
                 <div class="divider bg-red"></div>
                 <p class="tan text-bottom-push">We create top-notch social media video that&#39;ll push your brand forward&#46;</p>
                 <button class="btn cta" type="button" name="CallToAction">LET&#39;S&nbsp;TALK</button>
@@ -100,7 +100,7 @@
             <h3 class="content-title blue">Cafe Society Creative Marketing is a social media video content studio based in Southern Oregon&#46;</h3>
             <img class="header-image" src="public/img/views-forest-image.jpeg" alt="Views header image" title="Who We Are, forest image" />
             <h3 class="content-title blue">Our work has generated&#46;</h3>
-            <h2 class="content-title blue">OVER <span class="visits">1,000,000+</span> Views&#63;</h2>
+            <h2 class="content-title blue">OVER <span class="visits">11,000,000+</span> Views&#63;</h2>
             <img class="views-decal-image" src="public/img/views-decal.png" alt="Views Decal" title="Who We Are, 11 mission views decal" />
         </div>
         <!--end main content -->
