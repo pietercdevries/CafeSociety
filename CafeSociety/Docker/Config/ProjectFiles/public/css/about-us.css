@@ -1,0 +1,63 @@
+/* --------------------------------------------------------
+index.css
+
+version: 1.1
+author: Silicon Bean
+description: This is the style for the index page also known as the home page.
+----------------------------------------------------------*/
+/* images */
+.avatar
+{
+    max-width: 263px;
+    width: 100%;
+    display: inline-block;
+}
+
+/* containers */
+.about-section
+{
+    text-align: left;
+    margin: 50px;
+}
+
+.avatar-container
+{
+    display: inline-block;
+    max-width: 263px;
+    width: 30%;
+    vertical-align: top;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+
+.description-container
+{
+    display: inline-block;
+    width: 70%;
+}
+
+/* text */
+h3
+{
+    margin: 5px 0;
+}
+
+@media(max-width: 680px)
+{
+    avatar-container
+    {
+        max-width:unset;
+        width: 100%;
+    }
+
+    .description-container
+    {
+        max-width:unset;
+        width: 100%;
+    }
+
+    .about-section
+    {
+        margin: 50px 0;
+    }
+}
