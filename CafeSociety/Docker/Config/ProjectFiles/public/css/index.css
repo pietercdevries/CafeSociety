@@ -1,0 +1,207 @@
+/* --------------------------------------------------------
+index.css
+
+version: 1.1
+author: Silicon Bean
+description: This is the style for the index page also known as the home page.
+----------------------------------------------------------*/
+/* containers */
+.header-video
+{
+    width: 100%;
+    height: 900px;
+    overflow:hidden;
+    display:block;
+    position: relative;
+    background-color: #99351A;
+}
+
+.video-overlay
+{
+    box-sizing: border-box;
+    height: 56.25vw;
+    left: 50%;
+    min-height: 100%;
+    min-width: 100%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    width: 177.77777778vh;
+    background-color: rgba(0,0,0,0.4);
+    z-index: 100;
+}
+
+.video
+{
+    box-sizing: border-box;
+    height: 56.25vw;
+    left: 50%;
+    min-height: 100%;
+    min-width: 100%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    width: 177.77777778vh;
+}
+
+.video-placeholder
+{
+    width: 100%;
+    height: 700px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inner-video
+{
+    width: 100%;
+    text-align: center;
+    /*background-color: rgba(0,0,0,0.5);*/
+    padding: 30px;
+    position: relative;
+    top: calc(50% - 150px);
+    /*box-shadow: 1px -4px 20px 20px rgba(0,0,0, 0.5);*/
+    z-index: 1000;
+}
+
+.inner-video-text-container
+{
+    margin: 0 auto;
+    max-width: 930px;
+    z-index: 1000;
+}
+
+.inner-video-bottom
+{
+    padding: 25px;
+    position: relative;
+    top: calc(90% - 355px);
+    text-align: center;
+    z-index: 1000;
+}
+
+.one-of-third.video-thirds
+{
+    width: 33.33%;
+    display: block;
+    margin-bottom: 0;
+    float: left;
+}
+
+.one-of-third.video-thirds.padding
+{
+    margin-bottom: 25px;
+}
+
+/* images */
+.header-image
+{
+    width: 100%;
+    max-width: 780px;
+    margin: 25px auto;
+}
+
+.process-image
+{
+    width: 100%;
+    max-width: 190px;
+    margin: 25px;
+    display: inline-block;
+}
+
+.views-decal-image
+{
+    width: 100%;
+    max-width: 400px;
+    display: inline-block;
+}
+
+.client-logo
+{
+    max-height: 66px;
+    display: inline-block;
+    padding: 0 25px;
+    vertical-align: middle;
+}
+
+/* text */
+.text-bottom-push
+{
+    margin: 25px;
+}
+
+.visits
+{
+    background: -webkit-linear-gradient(-90deg, #EEB80D 25%, #E6C21C 35%, #A26516 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #A16313;
+}
+
+.link
+{
+    text-decoration: none;
+    color: #FFF8EA;
+    margin: 25px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.link:hover
+{
+    text-decoration: none;
+    color: #FFF8EA;
+}
+
+.link:visited
+{
+    text-decoration: none;
+    color: #FFF8EA;
+}
+
+/* mobile container */
+@media (max-width: 887px)
+{
+    .inner-video-bottom
+    {
+        top: calc(90% - 410px);
+    }
+}
+
+@media (max-width: 668px)
+{
+    .inner-video-bottom
+    {
+        top: calc(90% - 450px);
+    }
+
+    .client-logo
+    {
+        max-height: 100px;
+    }
+
+    .one-of-third.video-thirds
+    {
+        width: 100%;
+    }
+
+    .one-of-third.video-thirds.padding
+    {
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 634px)
+{
+    .inner-video-bottom
+    {
+        top: calc(90% - 450px);
+    }
+
+    client-logo
+    {
+        max-height: 100px;
+    }
+}

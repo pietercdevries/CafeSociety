@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4371cd2-b5fe-4638-9e1d-a5d01e5277cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1kGjAE867dlyp3LY25wKBwknRQS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4371cd2-b5fe-4638-9e1d-a5d01e5277cc" name="Default Changelist" comment="" />
+      <created>1605333676416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605333676416</updated>
+      <workItem from="1605333677558" duration="31863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="564" y="200" key="#PHP" timestamp="1605338019599">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="564" y="200" key="#PHP/0.23.1792.1017@0.23.1792.1017" timestamp="1605338019599" />
+    <state x="360" y="193" width="1071" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605338029467">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="360" y="193" width="1071" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1605338029467" />
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom" timestamp="1605672403449">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1605672403449" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center" timestamp="1605672403449">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1605672403449" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left" timestamp="1605672403448">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1605672403448" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right" timestamp="1605672403449">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1605672403449" />
+    <state x="715" y="462" key="NewPhpFileDialog" timestamp="1605333981509">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="715" y="462" key="NewPhpFileDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1605333981509" />
+  </component>
+</project>

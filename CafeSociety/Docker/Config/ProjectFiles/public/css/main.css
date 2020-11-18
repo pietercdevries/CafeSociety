@@ -1,0 +1,283 @@
+/* --------------------------------------------------------
+main.css
+
+version: 1.1
+author: Silicon Bean
+description: This is the style all page for like common used styles and elements.
+----------------------------------------------------------*/
+
+html
+{
+    font-family: futura-pt, sans-serif;
+}
+
+/* containers */
+.main-container
+{
+    font-family: futura-pt, sans-serif;
+    line-height: 120%;
+    font-size: 20px;
+}
+
+.main-content
+{
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 25px;
+}
+
+.section
+{
+    width: 100%;
+    text-align: center;
+}
+
+.one-of-third
+{
+    width: 30%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.content-title
+{
+    width: 100%;
+    max-width: 780px;
+    margin: 25px auto;
+}
+
+/* text */
+h1
+{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 55px;
+}
+
+h2
+{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 55px;
+}
+
+h3
+{
+    font-size: 30px;
+    line-height: 35px;
+    margin-top: 15px;
+    font-weight: 400;
+}
+
+h4
+{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+h5
+{
+    font-size: 30px;
+    line-height: 35px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+
+
+.blue
+{
+    color: #141418;
+}
+
+.tan
+{
+    color: #FFF8EA;
+}
+
+.red
+{
+    color: #99351A;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+.divider
+{
+    height: 1px;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.divider.thick
+{
+    height: 4px;
+    background-color: #9A452D;
+    width: 200px;
+}
+
+.muted-text
+{
+    font-size: 11px;
+}
+
+/* buttons */
+.btn
+{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 25px;
+    height: 40px;
+    border: none;
+    min-width: 130px;
+    margin: 20px;
+    outline:none;
+    cursor: pointer;
+}
+
+.btn:focus
+{
+    outline:none;
+}
+
+.btn:active
+{
+    outline:none;
+}
+
+.btn.cta
+{
+    background-color: #99351A;
+    color: #EEE2CC;
+}
+
+.btn.cta:hover
+{
+    background-color: #792a15;
+    color: #EEE2CC;
+}
+
+a
+{
+    color: #99351A;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #792a15;
+}
+
+a:visited
+{
+    color: #99351A;
+}
+
+a:active
+{
+    color: #99351A;
+}
+
+/* main menu */
+
+/* background colors */
+.bg-black
+{
+    background-color: #000;
+}
+
+.bg-blue
+{
+    background-color: #141418;
+}
+
+.bg-light-blue
+{
+    background-color: #376194;
+}
+
+.bg-tan
+{
+    background-color: #FFF8EA;
+}
+
+.bg-red
+{
+    background-color: #99351A;
+}
+
+/* mobile */
+
+@media (max-width: 634px)
+{
+    /* text */
+    h1
+    {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    h2
+    {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    h3
+    {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    h4
+    {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    h5
+    {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    /* containers */
+    .one-of-third
+    {
+        width: 100%;
+    }
+}
+
+@media (max-width: 434px)
+{
+    /* text */
+    h1
+    {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    h2
+    {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    h3
+    {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    h4
+    {
+        font-size: 13px;
+        line-height: 0px;
+    }
+}
