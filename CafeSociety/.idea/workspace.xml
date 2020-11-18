@@ -22,8 +22,11 @@
     <list default="true" id="f4371cd2-b5fe-4638-9e1d-a5d01e5277cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/gallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/privacy-policy.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/privacy-policy.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/terms-of-service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/terms-of-service.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/css/gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605333676416</updated>
       <workItem from="1605333677558" duration="31863000" />
-      <workItem from="1605735894531" duration="2277000" />
+      <workItem from="1605735894531" duration="5140000" />
     </task>
     <servers />
   </component>

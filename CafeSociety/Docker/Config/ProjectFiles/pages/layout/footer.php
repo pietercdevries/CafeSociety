@@ -10,13 +10,13 @@
                     </div>
                     <div class="middle-inner-footer">
                         <p class="muted red">
-                            <a href="" title="Privacy Policy Page">Privacy Policy</a>
+                            <a href="/pages/privacy-policy.php" title="Privacy Policy Page">Privacy Policy</a>
                             |
-                            <a href="" title="Terms Of Use Page">Terms of Use</a>
+                            <a href="/pages/terms-of-service.php" title="Terms Of Use Page">Terms of Use</a>
                             |
-                            <a href="" title="Terms Of Sale Page">Terms of Sale</a>
+                            <a href="/pages/" title="Terms Of Sale Page">Terms of Sale</a>
                             |
-                            <a href="" title="Contact Us Page">Contact Us</a>
+                            <a href="/pages/" title="Contact Us Page">Contact Us</a>
                         </p>
                     </div>
                     <div class="right-inner-footer">

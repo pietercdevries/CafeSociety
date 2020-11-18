@@ -126,6 +126,16 @@ p
     font-size: 11px;
 }
 
+.first-section-push
+{
+    height: 250px;
+}
+
+.first-title-push
+{
+    margin-top: 100px;
+}
+
 /* buttons */
 .btn
 {

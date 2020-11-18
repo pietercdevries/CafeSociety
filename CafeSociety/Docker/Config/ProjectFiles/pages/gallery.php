@@ -4,10 +4,10 @@
     <link rel="stylesheet" href="/public/css/gallery.css">
 
     <!-- section -->
-    <div class="section bg-blue main-title">
+    <div class="section bg-blue first-section-push">
         <!-- main content -->
         <div class="main-content">
-            <h1 class="tan">OUR WORK</h1>
+            <h1 class="content-title tan first-title-push">OUR WORK</h1>
             <div class="divider bg-red"></div>
         </div>
         <!--end main content -->
