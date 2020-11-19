@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4371cd2-b5fe-4638-9e1d-a5d01e5277cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +44,15 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1kGjAE867dlyp3LY25wKBwknRQS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -75,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605333676416</updated>
       <workItem from="1605333677558" duration="31863000" />
-      <workItem from="1605735894531" duration="7634000" />
+      <workItem from="1605735894531" duration="8004000" />
     </task>
     <servers />
   </component>
@@ -92,6 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="564" y="200" key="#PHP" timestamp="1605338019599">
