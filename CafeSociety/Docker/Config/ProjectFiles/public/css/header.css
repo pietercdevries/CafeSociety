@@ -181,6 +181,11 @@ description: This is the style for the menu on the header of all pages.
         margin-top: 0;
     }
 
+    .menu-logo
+    {
+        width: 50px;
+    }
+    
     .hamburger-menu
     {
         margin-top: 5px;

@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4371cd2-b5fe-4638-9e1d-a5d01e5277cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/css/header.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
