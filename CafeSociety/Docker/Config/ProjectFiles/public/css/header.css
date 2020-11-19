@@ -183,9 +183,9 @@ description: This is the style for the menu on the header of all pages.
 
     .menu-logo
     {
-        width: 50px;
+        width: 25px !important;
     }
-    
+
     .hamburger-menu
     {
         margin-top: 5px;
