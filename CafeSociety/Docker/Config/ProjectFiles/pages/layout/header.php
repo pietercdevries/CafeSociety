@@ -50,7 +50,7 @@
                     <div class="main-content">
                         <!-- left inner menu -->
                         <div class="left-inner-menu">
-                            <img class="menu-logo" src="/public/img/logo.svg" alt="cafe society logo" title="cafe society">
+                            <img class="menu-logo" src="/public/img/logo.png" alt="cafe society logo" title="cafe society">
                             <img class="menu-logo-text" src="/public/img/logo-text.png" alt="cafe society logo" title="cafe society">
                         </div>
                         <!-- end left inner menu -->

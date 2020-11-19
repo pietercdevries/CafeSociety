@@ -67,6 +67,7 @@ description: This is the style for the menu on the header of all pages.
 
 .menu-logo
 {
+    width: 52px;
     float: left;
     margin-right: 4px;
 }
