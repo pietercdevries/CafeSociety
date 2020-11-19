@@ -18,7 +18,12 @@
         <title>Cafe Society Creative Marketing</title>
 
         <!-- Favicons -->
-        <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+        <link rel="shortcut icon" href="/public/img/favicon.ico" type="image/vnd.microsoft.icon">
+        <link rel="apple-touch-icon" sizes="120x120" href="/public/img/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/public/img/favicon-16x16.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/public/img/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="/public/img/android-chrome-192x192.png">
+        <link rel="icon" type="image/png" sizes="512x512" href="/public/img/android-chrome-512x512.png">
 
         <!-- External Css Files -->
         <link rel="stylesheet" href="/public/css/css-reset.css">
