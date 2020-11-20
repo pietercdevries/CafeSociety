@@ -168,6 +168,11 @@ description: This is the style for the index page also known as the home page.
     {
         top: calc(90% - 410px);
     }
+
+    .header-video
+    {
+        max-height: 670px;
+    }
 }
 
 @media (max-width: 668px)
