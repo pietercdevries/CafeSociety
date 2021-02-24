@@ -195,7 +195,7 @@
         <p class="red">Download our free PDF to find out&#46;</p>
         <br>
         <a title="3 things video pro&#39;s don&#39;t want you to know link" target="_blank" href="/public/files/3%20Things%20Video%20Pros%20Don't%20Want%20You%20To%20Know.pdf">
-            <img class="client-logo" title="3 things video pro&#39;s don&#39;t want you to know image" alt="3 things video pro&#39;s don&#39;t want you to know image" src="/public/img/3-Things-Video-Pros-graphic.svg" />
+            <img class="download-pdf" title="3 things video pro&#39;s don&#39;t want you to know image" alt="3 things video pro&#39;s don&#39;t want you to know image" src="/public/img/3-Things-Video-Pros-graphic.svg" />
         </a>
     </div>
     <!--end main content -->

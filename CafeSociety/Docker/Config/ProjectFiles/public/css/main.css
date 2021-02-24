@@ -47,6 +47,13 @@ img
     margin-bottom: 10px;
 }
 
+.one-of-second
+{
+    width: 50%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
 .content-title
 {
     width: 100%;
@@ -144,6 +151,21 @@ p
     margin-top: 100px;
 }
 
+.center
+{
+    text-align: center;
+}
+
+.left
+{
+    text-align: left;
+}
+
+.right
+{
+    text-align: right;
+}
+
 /* buttons */
 .btn
 {
@@ -230,6 +252,65 @@ a:active
     background-color: #99351A;
 }
 
+
+/* form controls */
+.form
+{
+    max-width: 400px;
+    width: 100%;
+    margin: 0 25px;
+    display: inline-block;
+}
+
+.form-control {
+    display: block;
+    height: 51px;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    margin-bottom: 5px;
+}
+
+.form-control::-ms-expand {
+    background-color: transparent;
+    border: 0;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.form-control::placeholder {
+    color: #6c757d;
+    opacity: 1;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #e9ecef;
+    opacity: 1;
+}
+
+
+/* images */
+.download-pdf
+{
+    max-height: 66px;
+    display: inline-block;
+    padding: 0 25px;
+    vertical-align: middle;
+}
+
 /* mobile */
 
 @media (max-width: 634px)
@@ -270,6 +351,13 @@ a:active
     {
         width: 100%;
     }
+
+    /* images */
+    .download-pdf
+    {
+        max-height: 100px;
+    }
+
 }
 
 @media (max-width: 434px)
@@ -297,5 +385,11 @@ a:active
     {
         font-size: 13px;
         line-height: 0px;
+    }
+
+    /* images */
+    .download-pdf
+    {
+        max-height: 100px;
     }
 }

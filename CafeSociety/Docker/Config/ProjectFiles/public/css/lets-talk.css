@@ -1,0 +1,14 @@
+/* --------------------------------------------------------
+header.css
+
+version: 1.1
+author: Silicon Bean
+description: This is the style for the lets-talk php page.
+----------------------------------------------------------*/
+
+/* images */
+.company-logo
+{
+    display: inline-block;
+    width: 120px;
+}

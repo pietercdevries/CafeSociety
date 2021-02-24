@@ -19,7 +19,10 @@
             Here's a Look at the whole process,
         </p>
     </div>
+    <!-- end main content -->
 </div>
+<!-- end section -->
+
 <!-- section -->
 <div class="section bg-light-blue">
     <!-- main content -->
@@ -106,7 +109,10 @@
     <!--end main content -->
 </div>
 <!-- end section -->
+
+<!-- section -->
 <div class="section bg-blue">
+    <!--main content -->
     <div class="main-content">
         <div class="about-section">
             <div class="avatar-container">
@@ -143,34 +149,12 @@
 <!-- section -->
 <div class="section bg-blue">
     <!-- main content -->
-<!--    <div class="main-content">-->
-<!--        <h1 class="content-title tan">OUR MISSION</h1>-->
-<!--        <div class="divider bg-red"></div>-->
-<!--        <p class="content-title tan">-->
-<!--            Cafe Society is dedicated to producing the best video-->
-<!--            solutions for your product or service.-->
-<!--            <br>-->
-<!--            <br>-->
-<!--            Our goal is to create video content that pushes brands forward in-->
-<!--            ground-breaking ways and promotes passionate collaboration.-->
-<!--            <br>-->
-<!--            <br>-->
-<!--            We’re here to help you succeed in sharing your gift with the world.-->
-<!--            <br>-->
-<!--            <br>-->
-<!--            Let’s create great things together.-->
-<!--        </p>-->
-<!--        <h3 class="red" style="margin-bottom: 50px;">Schedule a free 30-minute consultation today!</h3>-->
-<!--    </div>-->
-    <!--end main content -->
-
-    <!-- main content -->
         <div class="main-content">
             <h3 class="red">Want to learn some of the secrets we've picked up along the way?</h3>
             <p class="red">Download our free PDF to find out.</p>
             <br>
             <a title="3 things video pro's dont want you to know link" target="_blank" href="/public/files/3%20Things%20Video%20Pros%20Don't%20Want%20You%20To%20Know.pdf">
-                <img class="production-process-steps" title="3 things video pro's dont want you to know image" alt="3 things video pro's dont want you to know image" src="/public/img/3-Things-Video-Pros-graphic.svg" />
+                <img class="download-pdf" title="3 things video pro's dont want you to know image" alt="3 things video pro's dont want you to know image" src="/public/img/3-Things-Video-Pros-graphic.svg" />
             </a>
         </div>
     <!--end main content -->
