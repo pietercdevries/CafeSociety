@@ -165,14 +165,14 @@
     <!--end main content -->
 
     <!-- main content -->
-    <div class="main-content">
-        <h3 class="red">Want to learn some of the secrets we&#39;ve picked up along the way?</h3>
-        <p class="red">Download our free PDF to find out&#46;</p>
-        <br>
-        <a title="3 things video pro&#39;s don&#39;t want you to know link" target="_blank" href="/public/files/3%20Things%20Video%20Pros%20Don't%20Want%20You%20To%20Know.pdf">
-            <img class="client-logo" title="3 things video pro&#39;s don&#39;t want you to know image" alt="3 things video pro&#39;s don&#39;t want you to know image" src="/public/img/3-Things-Video-Pros-graphic.svg" />
-        </a>
-    </div>
+        <div class="main-content">
+            <h3 class="red">Want to learn some of the secrets we've picked up along the way?</h3>
+            <p class="red">Download our free PDF to find out.</p>
+            <br>
+            <a title="3 things video pro's dont want you to know link" target="_blank" href="/public/files/3%20Things%20Video%20Pros%20Don't%20Want%20You%20To%20Know.pdf">
+                <img class="production-process-steps" title="3 things video pro's dont want you to know image" alt="3 things video pro's dont want you to know image" src="/public/img/3-Things-Video-Pros-graphic.svg" />
+            </a>
+        </div>
     <!--end main content -->
 </div>
 <!-- end section -->
