@@ -1,7 +1,7 @@
 <?php
 ?>
             <!-- section -->
-            <div class="section bg-tan red-top-border footer-container">
+            <div class="section bg-tan footer-container">
                 <!-- main content -->
                 <div class="main-content no-pad">
                     <div class="left-inner-footer">

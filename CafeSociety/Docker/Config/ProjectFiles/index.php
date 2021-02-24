@@ -108,6 +108,16 @@
     <!-- end section -->
 
 <!-- section -->
+<div class="section bg-tan">
+    <!-- main content -->
+    <div class="main-content">
+        <h4 class="red">CLIENTS AND BRANDS WE&#39;VE WORKED WITH</h4>
+    </div>
+    <!--end main content -->
+</div>
+<!-- end section -->
+
+<!-- section -->
 <div class="section bg-light-blue">
     <!-- main content -->
     <div class="main-content">
@@ -177,5 +187,19 @@
 </div>
 <!-- end section -->
 
+<!-- section -->
+<div class="section bg-blue red-top-border">
+    <!-- main content -->
+    <div class="main-content">
+        <h3 class="red">Want to learn some of the secrets we&#39;ve picked up along the way?</h3>
+        <p class="red">Download our free PDF to find out&#46;</p>
+        <br>
+        <a title="3 things video pro&#39;s don&#39;t want you to know link" target="_blank" href="/public/files/3%20Things%20Video%20Pros%20Don't%20Want%20You%20To%20Know.pdf">
+            <img class="client-logo" title="3 things video pro&#39;s don&#39;t want you to know image" alt="3 things video pro&#39;s don&#39;t want you to know image" src="/public/img/3-Things-Video-Pros-graphic.svg" />
+        </a>
+    </div>
+    <!--end main content -->
+</div>
+<!-- end section -->
 <script src="https://player.vimeo.com/api/player.js"></script>
 <?php require 'pages/layout/footer.php' ?>
