@@ -53,6 +53,19 @@
         <div class="one-of-third video-thirds">
             <div style="padding:56.25% 0 0 0;position:relative;background: black;"><iframe src="https://player.vimeo.com/video/424131124?title=0&byline=0&portrait=0&controls=1&background=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
         </div>
+
+
+
+        <div class="one-of-third video-thirds">
+            <div style="padding:56.25% 0 0 0;position:relative;background: black;"><iframe src="https://player.vimeo.com/video/495296227?title=0&byline=0&portrait=0&controls=1&background=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+        </div>
+        <div class="one-of-third video-thirds">
+            <div style="padding:56.25% 0 0 0;position:relative;background: black;"><iframe src="https://player.vimeo.com/video/495329205?title=0&byline=0&portrait=0&controls=1&background=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+        </div>
+        <div class="one-of-third video-thirds">
+            <div style="padding:56.25% 0 0 0;position:relative;background: black;"><iframe src="https://player.vimeo.com/video/495330055?title=0&byline=0&portrait=0&controls=1&background=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+        </div>
+
     </div>
     <!-- end section -->
 <?php require 'layout/footer.php' ?>
