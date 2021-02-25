@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4371cd2-b5fe-4638-9e1d-a5d01e5277cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/img/The_Logo.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/about-the-logo.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/about-the-logo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/public/img/3-Things-Video-Pros-graphic-Dark.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/about-us.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/about-us.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Config/ProjectFiles/pages/layout/footer.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +83,7 @@
       <updated>1605333676416</updated>
       <workItem from="1605333677558" duration="31863000" />
       <workItem from="1605735894531" duration="8004000" />
-      <workItem from="1614142818329" duration="12727000" />
+      <workItem from="1614142818329" duration="12945000" />
     </task>
     <servers />
   </component>
