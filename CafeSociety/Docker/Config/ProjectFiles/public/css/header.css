@@ -70,6 +70,7 @@ description: This is the style for the menu on the header of all pages.
     width: 52px;
     float: left;
     margin-right: 4px;
+    cursor: pointer;
 }
 
 .menu-logo-text
@@ -77,6 +78,7 @@ description: This is the style for the menu on the header of all pages.
     width: 172px;
     margin-top: 3px;
     float: left;
+    cursor: pointer;
 }
 
 .hamburger-menu

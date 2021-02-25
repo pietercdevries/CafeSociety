@@ -311,6 +311,12 @@ a:active
     vertical-align: middle;
 }
 
+.company-logo
+{
+    display: inline-block;
+    width: 120px;
+}
+
 /* mobile */
 
 @media (max-width: 634px)

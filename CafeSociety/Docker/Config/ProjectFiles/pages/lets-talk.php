@@ -48,7 +48,7 @@
 <div class="section bg-blue center">
     <!-- main content -->
     <div class="main-content one-of-second">
-        <img class="company-logo" src="/public/img/logo.png" alt="cafe society logo" title="cafe society">
+        <img class="company-logo" src="/public/img/logo.png" alt="café society logo" title="café society">
     </div>
     <!--end main content -->
 </div>

@@ -5,18 +5,18 @@
                 <!-- main content -->
                 <div class="main-content no-pad">
                     <div class="left-inner-footer">
-                        <img class="menu-logo" src="/public/img/logo.png" alt="cafe society logo" title="cafe society">
+                        <img class="menu-logo" src="/public/img/logo.png" alt="café society logo" title="café society">
                         <p class="muted red">&#169; 2020&#46; Café Society Creative Marketing&#46; All Rights Reserved&#46; </p>
                     </div>
                     <div class="middle-inner-footer">
                         <p class="muted red">
                             <a href="/pages/privacy-policy.php" title="Privacy Policy Page">Privacy Policy</a>
                             |
-                            <a href="/pages/terms-of-service.php" title="Terms Of Use Page">Terms of Use</a>
+                            <a href="/pages/terms-of-service.php" title="Terms Of Service Page">Terms of Service</a>
                             |
                             <a href="/pages/" title="Terms Of Sale Page">Terms of Sale</a>
                             |
-                            <a href="/pages/" title="Contact Us Page">Contact Us</a>
+                            <a href="mailto:info@cafesocietycreative.com" title="Contact Us Page">Contact Us</a>
                         </p>
                     </div>
                     <div class="right-inner-footer">

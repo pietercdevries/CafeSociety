@@ -11,11 +11,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta name="author" content="Silicon Bean LLC.">
-        <meta name="description" content="Cafe Society is dedicated to producing the best video solutions for your product or service. Our goal is to create video content that pushes brands forward in ground-breaking ways and promotes passionate collaboration. We’re here to help you succeed in sharing your gift with the world.">
+        <meta name="description" content="Café Society is dedicated to producing the best video solutions for your product or service. Our goal is to create video content that pushes brands forward in ground-breaking ways and promotes passionate collaboration. We’re here to help you succeed in sharing your gift with the world.">
         <meta name="keywords" content="marketing, video solutions, brands, solutions">
 
         <!-- Title Description -->
-        <title>Cafe Society Creative Marketing</title>
+        <title>Café Society Creative Marketing</title>
 
         <!-- Favicons -->
         <link rel="shortcut icon" href="/public/img/favicon.ico" type="image/vnd.microsoft.icon">
@@ -50,8 +50,8 @@
                     <div class="main-content">
                         <!-- left inner menu -->
                         <div class="left-inner-menu">
-                            <img class="menu-logo" src="/public/img/logo.png" alt="cafe society logo" title="cafe society">
-                            <img class="menu-logo-text" src="/public/img/logo-text.png" alt="cafe society logo" title="cafe society">
+                            <img class="menu-logo" src="/public/img/logo.png" alt="café society logo" title="café society">
+                            <img class="menu-logo-text" src="/public/img/logo-text.png" alt="café society logo" title="café society">
                         </div>
                         <!-- end left inner menu -->
                         <!-- right inner menu -->

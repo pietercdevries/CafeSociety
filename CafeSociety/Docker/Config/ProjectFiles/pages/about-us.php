@@ -28,7 +28,7 @@
     <!-- main content -->
     <div class="main-content tan">
         <div class="production-process-steps-text">
-            <img class="production-process-steps" title="Wesll Client" alt="Wesll Logo" src="/public/img/1-Concept-Light-Bulb.svg" />
+            <img class="production-process-steps" title="Process Step Logo" alt="Process Step Logo" src="/public/img/1-Concept-Light-Bulb.svg" />
             <br>
             <br>
             Concept
@@ -40,7 +40,7 @@
             <br>
         </div>
         <div class="production-process-steps-text">
-            <img class="production-process-steps" title="HP Client" alt="HP Logo" src="/public/img/2-Script-Paper.svg" />
+            <img class="production-process-steps" title="Process Step Logo" alt="Process Step Logo" src="/public/img/2-Script-Paper.svg" />
             <br>
             <br>
             Script
@@ -52,7 +52,7 @@
             <br>
         </div>
         <div class="production-process-steps-text">
-            <img class="production-process-steps" title="portalnd timbers Client" alt="Portalnd Timbers Logo" src="/public/img/3-Storyboard-Panels.svg" />
+            <img class="production-process-steps" title="Process Step Logo" alt="Process Step Logo" src="/public/img/3-Storyboard-Panels.svg" />
             <br>
             <br>
             Storyboard
@@ -64,7 +64,7 @@
             <br>
         </div>
         <div class="production-process-steps-text">
-            <img class="production-process-steps" title="Oregon Ducks Client" alt="Oregon Ducks Logo" src="/public/img/4-PrePro-Folders.svg" />
+            <img class="production-process-steps" title="Process Step Logo" alt="Process Step Logo" src="/public/img/4-PrePro-Folders.svg" />
             <br>
             <br>
             Pre-Production
@@ -76,7 +76,7 @@
             <br>
         </div>
         <div class="production-process-steps-text">
-            <img class="production-process-steps" title="Asante Client" alt="Asante Logo" src="/public/img/5-Shoot-Camera.svg" />
+            <img class="production-process-steps" title="Process Step Logo" alt="Process Step Logo" src="/public/img/5-Shoot-Camera.svg" />
             <br>
             <br>
             Shoot
@@ -88,7 +88,7 @@
             <br>
         </div>
         <div class="production-process-steps-text">
-            <img class="production-process-steps" title="Dutch Bros Coffee Client" alt="Dutch Bros Coffee Logo" src="/public/img/6-Edit-MacBook.svg" />
+            <img class="production-process-steps" title="Process Step Logo" alt="Process Step Logo" src="/public/img/6-Edit-MacBook.svg" />
             <br>
             <br>
             Edit
@@ -100,7 +100,7 @@
             <br>
         </div>
         <div class="production-process-steps-text">
-            <img class="production-process-steps" title="UL Client" alt="UL Logo" src="/public/img/7-Post-Globe.svg" />
+            <img class="production-process-steps" title="Process Step Logo" alt="Process Step Logo" src="/public/img/7-Post-Globe.svg" />
             <br>
             <br>
             Post

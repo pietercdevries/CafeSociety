@@ -5,14 +5,14 @@
     <!-- header video -->
     <div class="header-video">
         <div class="video-overlay"></div>
-        <iframe class="video" src="https://player.vimeo.com/video/421184225?autoplay=1&loop=1&muted=1&controls=0&background=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <video class="video" preload="auto" autoplay loop muted="muted" src="public/video/Cafe_Show_Reel_2020_edit3_landing_page.mp4" type="video/mp4"></video>
         <!-- inner video -->
         <div class="inner-video">
             <!-- inner video text container -->
             <div class="inner-video-text-container">
                 <h1 class="tan">WANT HIGH IMPACT VIDEO THAT WILL GROW YOUR BUSINESS&#63;</h1>
                 <div class="divider bg-red"></div>
-                <p class="tan text-bottom-push">We create top-notch social media video that&#39;ll push your brand forward&#46;</p>
+                <p class="tan text-bottom-push">We create top-notch video content that’ll push your brand forward&#46;</p>
                 <button class="btn cta" type="button" name="CallToAction">LET&#39;S&nbsp;TALK</button>
             </div>
             <!-- end inner video text container -->
@@ -33,7 +33,7 @@
             <img class="header-image" src="public/img/marketing-team-trust-header-image.png" alt="marketing-team-trust-header-image" title="marketing-team-trust-header-image">
             <h2 class="content-title blue">DON&#39;T GET STUCK WITH A TEAM YOU CAN&#39;T TRUST&#46;</h2>
             <div class="divider bg-red"></div>
-            <p class="text-bottom-push blue">Don&#39;t work with amateurs&#46; Don&#39;t miss your deadlines<br>You deserve the best quality treatment&#33;</p>
+            <p class="text-bottom-push blue">Don&#39;t work with amateurs&#46; Don&#39;t miss your deadlines.<br>You deserve the best quality treatment&#33;</p>
             <button class="btn cta" type="button" name="CallToAction">LET&#39;S&nbsp;TALK</button>
         </div>
         <!--end main content -->
@@ -48,7 +48,7 @@
             <h2 class="content-title tan">PARTNER WITH A TEAM WHO&#39;S GOT YOUR BACK&#46;</h2>
             <div class="divider bg-red"></div>
             <p class="text-bottom-push tan">Rise above the noise. We&#39;ll enhance your ideas!
-                Leverage our technical expertise&#33;</p>
+                Leverage our technical expertise.</p>
         </div>
         <!--end main content -->
     </div>
@@ -59,7 +59,7 @@
         <!-- main content -->
         <div class="main-content">
             <button class="btn cta" type="button" name="CallToAction">LET&#39;S&nbsp;TALK</button>
-            <h3 class="red">Schedule a free 30 minute chat to see if our solutions are right you&#46;</h3>
+            <h3 class="red">Schedule a free 30 minute chat to see if our solutions are right for you&#46;</h3>
         </div>
         <!--end main content -->
     </div>
@@ -97,10 +97,10 @@
             <h2 class="content-title blue">WHO WE ARE</h2>
             <h3 class="content-title red">Big City Quality&#44; Small Town Roots&#46;</h3>
             <div class="divider bg-red"></div>
-            <h3 class="content-title blue">Cafe Society Creative Marketing is a social media video content studio based in Southern Oregon&#46;</h3>
-            <img class="header-image" src="public/img/views-forest-image.jpeg" alt="Views header image" title="Who We Are, forest image" />
-            <h3 class="content-title blue">Our work has generated&#46;</h3>
-            <h2 class="content-title blue">OVER <span class="visits">11,000,000+</span> Views&#63;</h2>
+            <h3 class="content-title blue">Café Society Creative Marketing is a social media video content studio based in Southern Oregon&#46;</h3>
+            <div class="header-image" style="padding:38.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/510411467?title=0&byline=0&portrait=0&controls=1&background=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+            <h3 class="content-title blue">Our work has generated</h3>
+            <h2 class="content-title blue">OVER <span class="visits">11,000,000+</span> Views!</h2>
             <img class="views-decal-image" src="public/img/views-decal.png" alt="Views Decal" title="Who We Are, 11 mission views decal" />
         </div>
         <!--end main content -->
@@ -181,7 +181,7 @@
     <!-- main content -->
     <div class="main-content">
         <button class="btn cta" type="button" name="CallToAction">LET&#39;S&nbsp;TALK</button>
-        <h3 class="red">Schedule a free 30 minute chat to see if our solutions are right you&#46;</h3>
+        <h3 class="red">Schedule a free 30 minute chat to see if our solutions are right for you&#46;</h3>
     </div>
     <!--end main content -->
 </div>

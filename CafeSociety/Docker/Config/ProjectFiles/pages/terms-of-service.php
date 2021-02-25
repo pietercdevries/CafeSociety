@@ -6,8 +6,8 @@
             <h1 class="content-title first-title-push tan" style="margin-top: 150px;">TERMS OF SERVICE</h1>
             <div class="divider bg-red"></div>
             <p class="content-title tan">
-                Please read these terms of service &#40;"terms"&#44; &#34;terms of service&#34;&#41; carefully before using <a href="//:cafesocietycreative.com" title="Cafe Society Creative">https&#58;&#47;&#47;cafesocietycreative&#46;com</a>
-                website &#40;the &#34;service&#34;&#41; operated by Cafe Society Creative Marketing &#40;&#34;us&#34;&#44; &#34;we&#34;&#44; &#34;our&#34;&#41;&#46;
+                Please read these terms of service &#40;"terms"&#44; &#34;terms of service&#34;&#41; carefully before using <a href="//:cafesocietycreative.com" title="Café Society Creative">https&#58;&#47;&#47;cafesocietycreative&#46;com</a>
+                website &#40;the &#34;service&#34;&#41; operated by Café Society Creative Marketing &#40;&#34;us&#34;&#44; &#34;we&#34;&#44; &#34;our&#34;&#41;&#46;
             </p>
 
             <h3 class="red">Conditions of Use</h3>
@@ -65,22 +65,24 @@
 
             <h3 class="red">Comments&#44; Reviews&#44; and Emails</h3>
             <p class="content-title tan">
-                Visitors may post content if it is not obscene&#44; illegal&#44; defamatory&#44; threatening&#44; infringing of
-                intellectual property rights&#44; invasive of privacy or injurious in any other way to third parties&#46;
-                Content must be free of software viruses&#44; political campaign&#44; and commercial solicitation&#46;
-                We reserve all rights &#40;but not the obligation&#41; to remove and&#47;or edit such content&#46; When you post your content&#44;
-                you grant Café Society Creative Marketing LLC non-exclusive&#44; royalty-free and irrevocable right to use&#44;
-                reproduce&#44; publish&#44; modify such content throughout the world in any media&#46;
+                In regards to all other social media accounts held by Café Society,Visitors may post content
+                if it is not obscene, illegal, defamatory, threatening, infringing of
+                intellectual property rights, invasive of privacy or injurious in any other way to third parties.
+                Content must be free of software viruses, political campaign, and commercial solicitation.
+                We reserve all rights (but not the obligation) to remove and/or edit such content. When you post your content,
+                you grant Café Society Creative Marketing LLC non-exclusive, royalty-free and irrevocable right to use,
+                reproduce, publish, modify such content throughout the world in any media.
             </p>
+        </div>
+        <!--end main content -->
+    </div>
+    <!-- end section -->
 
-            <h3 class="red">User Account</h3>
-            <p class="content-title tan">
-                If you are an owner of an account on this website&#44; you are solely responsible for maintaining the
-                confidentiality of your private user details &#40;username and password&#41;&#46; You are responsible for all
-                activities that occur under your account or password&#46;
-                We reserve all rights to terminate accounts&#44; edit or remove content and cancel orders in their
-                sole discretion&#46;
-            </p>
+    <!-- section -->
+    <div class="section bg-blue center">
+        <!-- main content -->
+        <div class="main-content one-of-second">
+            <img class="company-logo" src="/public/img/logo.png" alt="café society logo" title="café society">
         </div>
         <!--end main content -->
     </div>
