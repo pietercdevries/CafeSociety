@@ -24,7 +24,7 @@
                         <a class="social-media-links" target="_blank" href="https://www.facebook.com/cafesocietycreative" title="Follow Us On Facebook"><img src="/public/img/facebook-logo.svg" title="Follow Us On Facebook" alt="Facebook Logo"/></a>
                         <a class="social-media-links" target="_blank" href="https://www.linkedin.com/company/cafe-society-creative-marketing?trk=public_profile_topcard-current-company" title="Follow Us On Linked In"><img src="/public/img/linkedin-logo.svg" title="Follow Us On Linked In" alt="Linked In Logo"/></a>
                         <a class="social-media-links" target="_blank" href="https://www.youtube.com/channel/UCRl_XG7F_N2ISRemixJutuA" title="Follow Us On Youtube"><img src="/public/img/youtube-logo.svg" title="Follow Us On Youtube" alt="Youtube Logo"/></a>
-                        <a class="social-media-links" target="_blank" href="https://www.youtube.com/channel/UCRl_XG7F_N2ISRemixJutuA" title="Follow Us On Vimeo"><img src="/public/img/vimeo-logo.svg" title="Follow Us On Vimeo" alt="Vimeo Logo"/></a>
+                        <a class="social-media-links" target="_blank" href="https://vimeo.com/user115816585" title="Follow Us On Vimeo"><img src="/public/img/vimeo-logo.svg" title="Follow Us On Vimeo" alt="Vimeo Logo"/></a>
                         <a class="social-media-links" target="_blank" href="https://twitter.com/cafesocietycm" title="Follow Us On Twitter"><img src="/public/img/twitter-logo.svg" title="Follow Us On Twitter" alt="Twitter Logo"/></a>
                     </div>
                 </div>

@@ -18,7 +18,7 @@
 <div class="section bg-blue">
     <!-- main content -->
     <div class="main-content">
-        <img title="Company Logo Animation" alt="Company Animated Logo" src="/public/img/" />
+        <img style="display: inline-block" title="Company Logo Animation" alt="Company Animated Logo" src="/public/img/The_Logo.gif" />
     </div>
     <!--end main content -->
 </div>
